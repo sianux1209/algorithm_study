@@ -1,5 +1,8 @@
-li = [1,2,3, 4, 5, 6, 7, 8, 9]
+import string
 
-li.insert(0,100)
+uppercase = string.ascii_uppercase
+lowercase = string.ascii_lowercase
 
-print li
+encrypt ''
+
+encrypt += uppercase.
